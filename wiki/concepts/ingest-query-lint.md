@@ -14,6 +14,8 @@ The wiki stays healthy because it is maintained through three repeated operation
 
 Read a raw source, summarize it, update the source page, update any affected concept or entity pages, then refresh [[index]] and append to [[log]].
 
+For web sources, [[wiki/entities/obsidian-web-clipper]] is a practical capture path into `raw/inbox/`.
+
 ## Query
 
 Read [[index]] first, then the most relevant wiki pages. Answer from the maintained wiki, not from vague memory. If the answer is durable, file it back into the vault.
@@ -26,4 +28,3 @@ Check for structural and semantic drift: broken links, orphan pages, stale claim
 
 - [[wiki/concepts/llm-wiki]]
 - [[wiki/sources/karpathy-llm-wiki]]
-

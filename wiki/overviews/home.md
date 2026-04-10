@@ -13,7 +13,9 @@ This vault starts from the idea in [[wiki/concepts/llm-wiki]]: raw sources stay 
 ## Current seed pages
 
 - [[wiki/sources/karpathy-llm-wiki]]
+- [[wiki/sources/obsidian-web-clipper]]
 - [[wiki/concepts/ingest-query-lint]]
+- [[wiki/entities/obsidian-web-clipper]]
 - [[wiki/synthesis/current-thesis]]
 
 ## Working loop
@@ -29,4 +31,4 @@ This vault starts from the idea in [[wiki/concepts/llm-wiki]]: raw sources stay 
 - Add the first real source that matters to your own learning or project.
 - Let Codex update several pages from that one source instead of keeping notes in chat.
 - Use [[index]] and Obsidian graph view to watch structure emerge.
-
+- If the source is on the web, use [[wiki/entities/obsidian-web-clipper]] as the default intake path.

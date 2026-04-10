@@ -21,6 +21,7 @@ This repository should begin as a plain Git repo of markdown files that happens 
 - Focus on capturing good sources and maintaining a few strong pages first.
 - Prefer updating an existing page over creating a redundant new one.
 - Keep raw captures stable and put interpretation in the wiki layer.
+- Use practical local-first intake tools such as [[wiki/entities/obsidian-web-clipper]] when they reduce capture friction.
 - Use `python3 scripts/lint.py` to keep the structure honest.
 
 ## Revisit later
@@ -34,4 +35,4 @@ This repository should begin as a plain Git repo of markdown files that happens 
 - [[wiki/concepts/llm-wiki]]
 - [[wiki/concepts/ingest-query-lint]]
 - [[wiki/sources/karpathy-llm-wiki]]
-
+- [[wiki/sources/obsidian-web-clipper]]

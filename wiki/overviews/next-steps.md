@@ -15,6 +15,8 @@ updated: 2026-04-10
 3. Add one real source to `raw/inbox/`.
 4. Ask Codex to ingest that source into the wiki.
 
+If the source is a web article, [[wiki/entities/obsidian-web-clipper]] is the default recommended capture tool.
+
 ## First good source ideas
 
 - An article or paper you already know is important.
@@ -33,4 +35,3 @@ updated: 2026-04-10
 - Add Dataview if frontmatter-driven tables become useful.
 - Add Marp only if you start exporting decks.
 - Add `qmd` only when `index.md` plus basic search stops being enough.
-
