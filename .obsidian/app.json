@@ -1,0 +1,10 @@
+{
+  "attachmentFolderPath": "raw/assets",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "raw/inbox",
+  "promptDelete": false,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "useMarkdownLinks": false
+}

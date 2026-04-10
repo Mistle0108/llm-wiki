@@ -13,3 +13,8 @@
 - Seeded the concept pages [[wiki/concepts/llm-wiki]] and [[wiki/concepts/ingest-query-lint]].
 - Added the first synthesis page [[wiki/synthesis/current-thesis]] and updated [[index]].
 
+## [2026-04-10] setup | obsidian defaults
+
+- Added starter Obsidian settings for attachment storage, new file placement, and Templates.
+- Added reusable templates for raw captures, query pages, and synthesis pages.
+- Added [[wiki/overviews/next-steps]] and `scripts/open-vault.sh` for day-one workflow.

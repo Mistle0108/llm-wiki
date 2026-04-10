@@ -7,6 +7,7 @@ This file is the content map for the wiki. Read it first when looking for releva
 ## Overviews
 
 - [[wiki/overviews/home]] - Landing page for the vault, workflow, and current priorities.
+- [[wiki/overviews/next-steps]] - Practical checklist for the first source ingest and early vault habits.
 
 ## Concepts
 
@@ -25,4 +26,3 @@ This file is the content map for the wiki. Read it first when looking for releva
 
 - [[AGENTS]] - Operational schema for future Codex sessions.
 - [[log]] - Chronological record of setup work, ingests, queries, and lint passes.
-
