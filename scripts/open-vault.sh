@@ -4,8 +4,6 @@ set -euo pipefail
 
 ROOT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 
-if command -v obsidian >/dev/null 2>&1; then
-  obsidian "$ROOT_DIR"
-else
-  open -a Obsidian "$ROOT_DIR"
-fi
+# Prefer the standard macOS app launcher so this works even when
+# Obsidian's internal command-line interface setting is disabled.
+open -a Obsidian "$ROOT_DIR"
